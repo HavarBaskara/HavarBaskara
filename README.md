@@ -12,7 +12,13 @@ Bienvenue sur mon profil GitHub !
 
 ## Technologies
 - Langages : R, Python, SQL
-- Outils : Git, Docker, VS Code
+- Outils : Github, Docker, VS Code, Dataviz
+
+## Compétence profesionnelle 
+- Analyse de donnée
+- Python (pandas, numpy)
+- R (ggplot2, tidyverse)
+- SQL (Jointures, requêtes complexes)
 
 ## Formations
 - Université Sorbonne Paris Nord, master économie de l'entreprise et des marchés, parcours big data et business intelligence
