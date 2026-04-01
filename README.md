@@ -3,11 +3,11 @@
 <!--
 **HavarBaskara/HavarBaskara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Bonjour, je suis Havar
+# Bonjour, je suis Havar, étudiante en master économie de l'entreprise et des marchés, parcours big data et business intelligence, je dévéloppe des compétences en analyse de données, économétrie et programation. 
 Bienvenue sur mon profil GitHub !
 
 ## À propos de moi
-- Développeur / Étudiant / Passionné de tech 
+- Développeuse / Étudiante / Passionné de tech 
 - J’apprends actuellement : Python, Git, DevOps...
 - Objectif : Construire des projets utiles et apprendre chaque jour
 
